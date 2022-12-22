@@ -41,6 +41,7 @@ public class ApiTestFeature1 {
 		if(actualResult.equals("Pass")) {
 			System.out.println("ApiStep : I am passed with " + marks + "%");
 			Assert.assertEquals(actualResult, expectedResult);
+
 		}
 		else {
 			System.out.println("ApiStep : I am failed with " + marks + "%");
