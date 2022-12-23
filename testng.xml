@@ -1,8 +1,0 @@
-<suite name="Practice Suite">
-  <test name="Test Basics 1">
-      <classes>
-        <class name=""/>
-      </classes>
-  </test> <!-- Test --> 
-</suite> <!-- Suite -->
-

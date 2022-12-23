@@ -1,0 +1,3 @@
+mobile\stepDefinitions\MobileTestFeature1.class
+api\stepDefinitions\ApiTestFeature1.class
+ui\stepDefinitions\UITestFeature1.class

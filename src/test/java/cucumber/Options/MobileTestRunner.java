@@ -6,6 +6,6 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src/main/resources/features", glue ={"mobile/stepDefinitions"})
-public class MobleTestRunner {
+public class MobileTestRunner {
 
 }
